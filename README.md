@@ -1,3 +1,17 @@
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+***
+***
+***
+*** To avoid retyping too much info. Do a search and replace for the following:
+*** github_username, repo_name, twitter_handle, email, project_title, project_description
+-->
+
+
+
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -19,7 +33,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/tonybsilvadev/LeafBarber-frontend">
-    <img src="https://i.imgur.com/WyTAPeR.png" width="400px" height="400px" alt="Logo">
+    <img src="https://i.imgur.com/VxmG106.gif" alt="Logo">
   </a>
 
   <h3 align="center">Leaf Barber</h3>
@@ -177,4 +191,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/tonybsilvadev/LeafBarber-frontend.svg?style=for-the-badge
 [license-url]: https://github.com/tonybsilvadev/LeafBarber-frontend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/tony-silva/<!--
+[linkedin-url]: https://linkedin.com/in/tony-silva/
