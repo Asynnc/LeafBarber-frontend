@@ -32,7 +32,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/tonybsilvadev/LeafBarber-frontend">
+  <a href="https://github.com/Ellie-on/LeafBarber-frontend">
     <img src="https://i.imgur.com/VxmG106.gif" alt="Logo">
   </a>
 
@@ -41,14 +41,14 @@
   <p align="center">
     A Complete BarberApp React Application
     <br />
-    <a href="https://github.com/tonybsilvadev/LeafBarber-frontend"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ellie-on/LeafBarber-frontend"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/tonybsilvadev/LeafBarber-frontend">View Demo</a>
+    <a href="https://github.com/Ellie-on/LeafBarber-frontend">View Demo</a>
     ·
-    <a href="https://github.com/tonybsilvadev/LeafBarber-frontend/issues">Report Bug</a>
+    <a href="https://github.com/Ellie-on/LeafBarber-frontend">Report Bug</a>
     ·
-    <a href="https://github.com/tonybsilvadev/LeafBarber-frontend/issues">Request Feature</a>
+    <a href="https://github.com/Ellie-on/LeafBarber-frontend">Request Feature</a>
   </p>
 </p>
 
@@ -118,7 +118,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/tonybsilvadev/LeafBarber-frontend.git
+   git clone https://github.com/Ellie-on/LeafBarber-frontend.git
    ```
 2. Install NPM packages
    ```sh
@@ -141,7 +141,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/tonybsilvadev/LeafBarber-frontend/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Ellie-on/LeafBarber-frontend/issues) for a list of proposed features (and known issues).
 
 
 
@@ -180,15 +180,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tonybsilvadev/LeafBarber-frontend.svg?style=for-the-badge
-[contributors-url]: https://github.com/tonybsilvadev/LeafBarber-frontend/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/tonybsilvadev/LeafBarber-frontend.svg?style=for-the-badge
-[forks-url]: https://github.com/tonybsilvadev/LeafBarber-frontend/network/members
-[stars-shield]: https://img.shields.io/github/stars/tonybsilvadev/LeafBarber-frontend.svg?style=for-the-badge
-[stars-url]: https://github.com/tonybsilvadev/LeafBarber-frontend/stargazers
-[issues-shield]: https://img.shields.io/github/issues/tonybsilvadev/LeafBarber-frontend.svg?style=for-the-badge
-[issues-url]: https://github.com/tonybsilvadev/LeafBarber-frontend/issues
-[license-shield]: https://img.shields.io/github/license/tonybsilvadev/LeafBarber-frontend.svg?style=for-the-badge
-[license-url]: https://github.com/tonybsilvadev/LeafBarber-frontend/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Ellie-on/LeafBarber-frontend.svg?style=for-the-badge
+[contributors-url]: https://github.com/Ellie-on/LeafBarber-frontend/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Ellie-on/LeafBarber-frontend.svg?style=for-the-badge
+[forks-url]: https://github.com/Ellie-on/LeafBarber-frontend/network/members
+[stars-shield]: https://img.shields.io/github/stars/Ellie-on/LeafBarber-frontend.svg?style=for-the-badge
+[stars-url]: https://github.com/Ellie-on/LeafBarber-frontend/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Ellie-on/LeafBarber-frontend.svg?style=for-the-badge
+[issues-url]: https://github.com/Ellie-on/LeafBarber-frontend/issues
+[license-shield]: https://img.shields.io/github/license/Ellie-on/LeafBarber-frontend.svg?style=for-the-badge
+[license-url]: https://github.com/Ellie-on/LeafBarber-frontend/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tony-silva/
